@@ -2,19 +2,19 @@ body {
   color:#40514E;
   margin: 0;
   text-align: center;
-  font-family: 'Merriweather', serif;
+  font-family: "Merriweather", serif;
 
 }
 
 h1 {
   margin: 50px auto 0 auto;
-  font-family: 'Sacramento', cursive;
+  font-family: "Sacramento", cursive;
   font-size: 5.625rem;
   color:#006a71;
 }
 
 h2 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-size: 2.5rem;
   color:#006a71;
   font-weight: normal;
@@ -22,7 +22,7 @@ h2 {
 }
 
 h3 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   color: #11999E;
 }
 .intro { width: 30%;
@@ -121,7 +121,7 @@ margin:100px auto 100px auto;
 }
 a{
   color: #11999E;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   margin: 10px 20px;
   text-decoration: none;
 }
